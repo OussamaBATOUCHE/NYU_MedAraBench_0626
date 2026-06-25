@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+data/
+ve/
+ve_lora/
+ve_qwen/
+logs/
+lora_results/
+results/

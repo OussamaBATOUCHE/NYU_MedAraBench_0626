@@ -1,0 +1,9 @@
+pandas
+openai 
+tqdm
+anthropic
+huggingface_hub
+torch 
+transformers
+accelerate
+pillow
